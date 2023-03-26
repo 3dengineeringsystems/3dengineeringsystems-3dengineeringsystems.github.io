@@ -116,11 +116,11 @@ The reason I tell this story is because I think it shows what data can and shoul
 
 In the past 8 years, I've studied at two of the world's best universities and worked in a variety of industries, gaining experience in machine learning, strategy, analytics and marketing. My [CV](https://mattschapman.github.io/pdf/Matt_Chapman_CV.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. 
 
-If you have any questions, feel free to drop me an [email](mailto:mattchapmanmsc@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/matt-chapman-ba8488118/). 
+If you have any questions, feel free to drop me an [email](mailto:juribeflores9580@sdsu.edu) or send me a message on [LinkedIn](https://www.linkedin.com/in/uribejj9580/). 
 
 Thanks for reading,
 
-Matt
+JJ Uribe
 
 ---
  -->
