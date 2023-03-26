@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning and NLP
+## Personal Projects in data science, machine learning and NLP
 
 ---
 
