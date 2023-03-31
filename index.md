@@ -34,12 +34,12 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 ---
 
-### Implementing a custom data collection pipeline using Scrapy and MongoDB
-The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
+### Traffic Engineering Computer Vision project using OpenCV 
+Project Description
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Github](https://github.com/mattschapman/mattschapman.github.io/tree/master/projects/mongodb_crawler/spiders)
+[View Project](https://colab.research.google.com/drive/1bSf8FavVfNSpWh9-5jpppVxuemeRYHzN?usp=sharing)
 
 ---
 
