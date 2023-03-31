@@ -13,7 +13,8 @@ Project Description - Coming Soon
 ---
 
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+
+Project Description - Coming Soon
 
 <img src="images/mobility.png?raw=true" />
 
@@ -69,7 +70,8 @@ Project Description - Coming Soon
 ---
 
 ### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
-In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
+
+Project Description - Coming Soon
 
 <!-- <img src="images/random_intercept.png?raw=true"/> -->
 
