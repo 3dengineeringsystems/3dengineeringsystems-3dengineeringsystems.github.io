@@ -38,7 +38,7 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 Project Description - Coming Soon
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)(https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)(https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![]
 
 [View Project](https://colab.research.google.com/drive/1bSf8FavVfNSpWh9-5jpppVxuemeRYHzN?usp=sharing)
 
