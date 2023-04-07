@@ -1,4 +1,4 @@
-## JJ Uribe's data science and ML portfolio project
+## JJ Uribe's Data Science and Machine Learning Personal Project Portfolio.
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
