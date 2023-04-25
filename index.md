@@ -51,7 +51,7 @@ Project Description - Coming Soon
 
 ---
 
-### Geospatial analysis of deprivation in London
+### Ad Recommendation System Project
 
 Project Description - Coming Soon
 
@@ -62,7 +62,7 @@ Project Description - Coming Soon
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
 
-[View Project](https://www.google.com/)
+[View Project](https://colab.research.google.com/drive/1XBzq6O9Tu5kK5TpeHl5KI64w2Uuh5Gtz?usp=sharing)
 
 
 ---
