@@ -1,13 +1,13 @@
 title: Juan Uribe # your name (or website title) here
-logo: "/images/Uribe.jpg?raw=true" # your photo (or logo) here
+logo: "/images/linkedin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
- Machine Learning Engineer with 4+ years of personal freelance experience in analytics, strategy and sales and a master's degree in Electrical Engineering from San Diego State University.
+  Machine Learning Engineer with 4+ years of freelance experience in analytics, strategy and sales and a master's degree in Electrical Engineering from San Diego State University.
   <br><br>
-  Ranked in top 10% of Graduate cohort at San Diego State University.
+  Ranked in top 10% of graduate cohort at San Diego State University.
   <br><br>
   <a href="https://www.linkedin.com/in/uribejj9580/">View my LinkedIn Profile</a> 
-    <br><br>
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
